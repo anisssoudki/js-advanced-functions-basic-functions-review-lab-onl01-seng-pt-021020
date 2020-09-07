@@ -1,4 +1,4 @@
 // Your code here
 function saturdayFun() {
-  return "this "
+  "This Saturday, I want to ....!"
 }
