@@ -4,5 +4,5 @@ function saturdayFun() {
 }
 
 function mondayWork() {
-  
+  return "This Monday, I will ... ."
 }
